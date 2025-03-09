@@ -12,6 +12,7 @@ def print_hello(name):
     pass
 
 def new_branch():
+    print('New branch')
     pass
 
 # Press the green button in the gutter to run the script.
