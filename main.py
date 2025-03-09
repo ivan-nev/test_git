@@ -11,7 +11,7 @@ def print_hi(name):
 def print_hello(name):
     pass
 
-def new_branch():
+def new_branch1():
     print('New branch')
     pass
 
