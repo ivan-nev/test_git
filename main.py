@@ -20,6 +20,6 @@ def old_branch():
 if __name__ == '__main__':
     print_hi('PyCharm')
 
-print('cyfnge1')
+print('cyfn')
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-print('change2')
+print('change23')
